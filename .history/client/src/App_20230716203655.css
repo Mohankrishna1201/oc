@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEBP7zk3UVONlYCi3nK_sbiviMkhSpDW7xig&usqp=CAU');
+  background-size: cover;
+  background-position: center;
+ 
+}

@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  background-image: url('https://w0.peakpx.com/wallpaper/169/26/HD-wallpaper-eatsleepcoderepeat-code-eat-iwos-iwos-soft-repeat-sleep-software-thumbnail.jpg');
+  background-size: cover;
+  background-position: center;
+ 
+}
+.select-box {
+  margin-bottom: 10px;
+}
+
+.textarea {
+  height: 300px;
+}
+
+.submit-button {
+  margin-top: 10px;
+}
+
+.outputbox {
+  margin-top: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+  border: 1px solid rgb(89, 89, 89);
+  font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7LdAhTnJZ8ag16Ab8HpzN6aGrrecyj7cxS50D0rgBdvslzkCf9pZMYPl_YXEd8QECxM&usqp=CAU');
+  background-size: cover;
+  background-position: center;
+ 
+}
+.select-box {
+  margin-bottom: 10px;
+}
+
+.textarea {
+  height: 300px;
+}
+
+.submit-button {
+  margin-top: 10px;
+}
+
+.outputbox {
+  margin-top: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+  border: 1px solid rgb(89, 89, 89);
+  font-family: 'Roboto', sans-serif;
+}
